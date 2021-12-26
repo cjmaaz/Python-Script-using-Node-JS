@@ -1,5 +1,6 @@
-# Final Year Project
+# Python Script through Nodejs
 
-## CAVEAT
+## The Application is not tested to run on other machine.
 
-Not yet complete
+### Package required:
+Express (missing package.json)
